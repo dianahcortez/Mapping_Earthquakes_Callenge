@@ -1,1 +1,1 @@
-# Mapping_Earthquakes_Callenge
+# Mapping_Earthquakes_Challenge
